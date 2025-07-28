@@ -10,7 +10,7 @@ head-extra: favicon.html
 ## Professional Experience
 ---
 ### Federal Housing Finance Agency (FHFA)
-Deputy Director, Division of Public Interest Examinations (2024 - present)    
+Deputy Director, Division of Public Interest Examinations (2024 - 2025)    
 
 Associate Director, Office of Fair Lending Oversight (2018 - 2024)
 
