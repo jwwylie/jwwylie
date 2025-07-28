@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practice Areas
-subtitle: administrative law / affordable housing / consumer finance / data governance / fair lending / fair housing / mortgages / privacy
+subtitle: Administrative Law / Affordable Housing / Consumer Finance / Data Governance / Fair Lending / Fair Housing / Mortgages / Privacy
 cover-img: /assets/img/cherryblossom.jpg
 after-content: signup.html
 head-extra: favicon.html
