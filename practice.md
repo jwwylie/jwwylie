@@ -8,7 +8,7 @@ head-extra: favicon.html
 ---
 
 ## Administrative Law
-* Administrative Law Judge Proceedings
+* Administrative Proceedings
 * Comment Letters
 * Rulemaking
 * Regulatory Compliance
