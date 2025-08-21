@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-subtitle: ex-FHFA / ex-CFPB / ex-HUD / JD / CMCP
+subtitle: ex-FHFA / ex-CFPB / ex-HUD / JD / CMCP / CIPP-US
 cover-img: /assets/img/lincolnmemorial.jpg
 after-content: signup.html
 head-extra: favicon.html
@@ -59,3 +59,5 @@ Secretary's Award for Excellence, U.S. Department of Housing and Urban Developme
 ## Professional Certifications
 ---
 [Certified Mortgage Compliance Professional, Mortgage Bankers Association](https://www.mba.org/conferences-and-education/certificates-and-designations/certified-mortgage-compliance-professional-designation)
+
+[Certified Information Privacy Professional - United States, Internal Association of Privacy Professionals](https://iapp.org/certify/cippus/)
