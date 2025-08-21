@@ -60,4 +60,4 @@ Secretary's Award for Excellence, U.S. Department of Housing and Urban Developme
 ---
 [Certified Mortgage Compliance Professional, Mortgage Bankers Association](https://www.mba.org/conferences-and-education/certificates-and-designations/certified-mortgage-compliance-professional-designation)
 
-[Certified Information Privacy Professional - United States, Internal Association of Privacy Professionals](https://iapp.org/certify/cippus/)
+[Certified Information Privacy Professional - United States, International Association of Privacy Professionals](https://iapp.org/certify/cippus/)
