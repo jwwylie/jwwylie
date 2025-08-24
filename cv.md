@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-subtitle: ex-FHFA / ex-CFPB / ex-HUD / JD / CMCP / CIPP-US
+subtitle: ex-FHFA / ex-CFPB / ex-HUD / JD / CMCP / CIPP-US / CRCM
 cover-img: /assets/img/lincolnmemorial.jpg
 after-content: signup.html
 head-extra: favicon.html
@@ -61,3 +61,5 @@ Secretary's Award for Excellence, U.S. Department of Housing and Urban Developme
 [Certified Mortgage Compliance Professional, Mortgage Bankers Association](https://www.mba.org/conferences-and-education/certificates-and-designations/certified-mortgage-compliance-professional-designation)
 
 [Certified Information Privacy Professional - United States, International Association of Privacy Professionals](https://iapp.org/certify/cippus/)
+
+[Certified Regulatory Compliance Manager, American Bankers Association](https://www.aba.com/training-events/certifications/certified-regulatory-compliance-manager).
