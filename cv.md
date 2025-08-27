@@ -9,6 +9,9 @@ head-extra: favicon.html
 
 ## Professional Experience
 ---
+### State Employee Credit Union of Maryland (SECU MD)
+AVP, Corporate Counsel (2025 - present)
+
 ### Federal Housing Finance Agency (FHFA)
 Deputy Director, Division of Public Interest Examinations (2024 - 2025)    
 
