@@ -1,7 +1,6 @@
 ---
 layout: post
 title: So Long, and Thanks for All the Fish!
-subtitle: 
 tags: [james wylie, housing, fair lending, fair housing, consumer financial regulation]
 author: James Wylie
 thumbnail-img: /assets/img/avatar-icon.png
