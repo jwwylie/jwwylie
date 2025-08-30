@@ -3,7 +3,7 @@ layout: post
 title: So Long, and Thanks for All the Fish!
 subtitle: 
 tags: [james wylie, housing, fair lending, fair housing, consumer financial regulation]
-author: Chandra James Wylie
+author: James Wylie
 thumbnail-img: /assets/img/avatar-icon.png
 ---
 I am being "abolished . . . for the efficiency of the service." August 25th will mark my final day at FHFA and the final day of my 17 years in the federal career civil service. I'm looking forward to sharing what's next for me shortly, but I wanted to take a moment of self-indulgence and reflection first. 
