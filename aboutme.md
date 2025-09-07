@@ -6,8 +6,9 @@ cover-img: /assets/img/rowhouses.jpg
 after-content: signup.html
 head-extra: favicon.html
 ---
+Wylie Law PLLC is the solo legal and consulting practice of James Wylie.
 
-James currently serves as AVP, Corporate Counsel for the State Employee Credit Union of Maryland (SECU MD).
+James serves as AVP, Corporate Counsel for the State Employee Credit Union of Maryland (SECU MD).
 
 From 2008 to 2025 James served in the federal career service. From 2018 to 2025 he served at the Federal Housing Finance Agency (FHFA). James served as the Deputy Director for the Division of Public Interest Examinations (DPIE) and was responsible for affordable housing, fair lending, minority and women inclusion, and consumer protection supervision of Fannie Mae, Freddie Mac, and the Federal Home Loan Banks. Prior to that, James was the founding director of the Office of Fair Lending Oversight (OFLO) at FHFA, where he built the consumer protection and fair lending oversight functions at the agency. James served as FHFA's representative on the Property Appraisal and Valuation Equity (PAVE) taskforce, and led the policy implementation of FHFA's public appraisal datasets.
 
