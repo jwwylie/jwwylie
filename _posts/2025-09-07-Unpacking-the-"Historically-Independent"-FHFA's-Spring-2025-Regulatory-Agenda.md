@@ -3,7 +3,7 @@ layout: post
 title: Unpacking the "Historically Independent" FHFA's Spring 2025 Regulatory Agenda
 tags: [james wylie, FHFA, housing]
 author: James Wylie
-thumbnail-img: /assets/img/agenda1.png
+thumbnail-img: /assets/img/FHFA-Logo-1.webp
 ---
 The [Spring 2025 Unified Agenda of Regulatory and Deregulatory Actions](https://www.reginfo.gov/public/do/eAgendaMain) for federal administrative agencies went live again last week after its initial publication was removed a few weeks ago. What were previously acknowledged by the White House to be ["Independent Agencies"](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_PREAMBLE_LIST&currentPubId=202410) like FHFA and the Federal Reserve going back to 1995 are now termed ["Historically Independent Agencies."](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_PREAMBLE_LIST&currentPubId=202410) Along with other federal agencies, FHFA announced its 2025 regulatory agenda as part of this process.
 
