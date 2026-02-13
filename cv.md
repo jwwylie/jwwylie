@@ -45,6 +45,10 @@ Juris Doctor (J.D.), _cum laude_ (2008)
   * National Merit Scholar
   * Honors College
 
+## Professional Associations
+
+American College of Consumer Financial Services Lawyers, Fellow (2026 -)
+
 ## Bar Memberships
 ---
 Oklahoma (2008)      
