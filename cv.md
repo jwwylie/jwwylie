@@ -46,7 +46,7 @@ Juris Doctor (J.D.), _cum laude_ (2008)
   * Honors College
 
 ## Professional Associations
-
+---
 American College of Consumer Financial Services Lawyers, Fellow (2026 -)
 
 ## Bar Memberships
